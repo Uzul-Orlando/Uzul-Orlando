@@ -1,4 +1,8 @@
-## Hi there 👋
+Halo! Nama saya Moh. Fauzul Adhim, saya adalah mahasiswa jurusan Informatika di Institut Teknologi Nasional (ITN) Malang. Saya memiliki minat yang mendalam dalam bidang teknologi, khususnya dalam pengembangan perangkat lunak, pemrograman, dan sistem informasi. Sebagai mahasiswa Informatika, saya selalu berusaha untuk mengembangkan keterampilan teknis saya dan mengikuti perkembangan terbaru dalam dunia teknologi.
+
+Selama di ITN Malang, saya aktif terlibat dalam berbagai kegiatan akademik dan non-akademik, yang memungkinkan saya untuk lebih memahami ilmu komputer melalui proyek-proyek praktis dan pengalaman di luar kelas. Saya percaya bahwa setiap tantangan dalam dunia teknologi memberikan peluang untuk inovasi dan solusi yang bermanfaat bagi masyarakat.
+
+Terima kasih telah meluangkan waktu untuk mengetahui lebih banyak tentang saya. Saya terbuka untuk kesempatan berbagi ilmu dan berkolaborasi dalam berbagai proyek teknologi!
 
 <!--
 **Uzul-Orlando/Uzul-Orlando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
